@@ -1,5 +1,5 @@
 
-<code>const greetings = "Bem-vindo ao meu GitHub! 😁"</code>
+<code>const greetings = "Welcome to my Github! 😁"</code>
 <hr>
 
 <p>👨‍💻 Front end developer searching for <a href="#">new experiences.</a></p>
