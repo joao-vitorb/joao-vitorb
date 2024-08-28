@@ -1,11 +1,13 @@
 
 <code>const greetings = "Welcome to my Github! 😁"</code>
+
 <hr>
 
+<p>🌎 Brazillian.</p>
 <p>👨‍💻 Front end developer searching for <a href="#">new experiences.</a></p>
-<p>🎓 Graduating in <a href="#">Information Systems</a></p>
-<p>🔠 Fluent level in English</p>
-<p>📚 Passionate about learning</p>
+<p>🎓 Graduating in <a href="#">Information Systems.</a></p>
+<p>🔠 Fluent level in English.</p>
+<p>📚 Passionate about learning.</p>
 <p>📱 Follow me on <a href="https://www.instagram.com/jaoo.vitor/" target="_blank">Instagram</a> and <a href="https://www.linkedin.com/in/joão-vitor-borges-de-oliveira/" target="_blank">LinkedIn</a>.</p>
 <p>📞 <a href="wa.me/5534996607639">Talk to me!</a></p>
 <hr>
