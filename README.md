@@ -1,5 +1,5 @@
 
-<code>const greetings = "Welcome to my Github! 😁"</code>
+<code><h1>Welcome to my GitHub! 😁</h1></code>
 
 <hr>
 
