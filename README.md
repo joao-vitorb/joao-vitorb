@@ -19,7 +19,7 @@ Here you will find projects in the following technologies:
 <p>-CSS</p> 
 <p>-Javascript</p>
 <p>-React</p>
-<p>-TailwindCSS</p>p>
+<p>-TailwindCSS</p>
 <p>And more!</p>
 
 <hr>
