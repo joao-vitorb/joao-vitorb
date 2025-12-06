@@ -8,7 +8,7 @@
 <p>🎓 Graduating in <a href="#">Systems Analysis and Development.</a></p>
 <p>🔠 Advanced level in English.</p>
 <p>📚 Passionate about learning.</p>
-<p>📱 <a href="https://www.instagram.com/codebyjoao/" target="_blank">Instagram | </a> and <a href="https://www.linkedin.com/in/joao-vitor-borges-de-oliveira/" target="_blank">LinkedIn | </a><a href="https://portfoliojvb.vercel.app/" target="_blank">Portfolio</a>.</p>
+<p>📱 <a href="https://www.instagram.com/codebyjoao/" target="_blank">Instagram</a> | <a href="https://www.linkedin.com/in/joao-vitor-borges-de-oliveira/" target="_blank">LinkedIn</a> | <a href="https://portfoliojvb.vercel.app/" target="_blank">Portfolio</a>.</p>
 <p>📞 <a target="_blank" href="https://api.whatsapp.com/send/?phone=5534996607639&text&type=phone_number&app_absent=0">Talk to me!</a></p>
 <hr>
 
