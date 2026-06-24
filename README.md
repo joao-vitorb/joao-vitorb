@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://portfoliojvb.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jo%C3%A3o+Vitor+Borges+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jo%C3%A3o+Vitor+Borges+%F0%9F%91%8B" alt="Hello, I'm João Vitor Borges" />
 </a>
 
 <p>
-  <em>Frontend Developer focused on building modern, responsive and user-friendly web applications</em>
+  <em>Fullstack Developer focused on building modern, responsive and user-friendly applications</em>
 </p>
 
 <p>
@@ -30,8 +30,8 @@
 ## 🧑‍💻 About me
 
 ```ts
-const joao = {
-  role: "Frontend Developer",
+const aboutMe = {
+  role: "Fullstack Developer",
   location: "Brazil 🇧🇷",
   graduation: "Systems Analysis and Development",
   focus: ["UI/UX", "performance", "clean code", "reusable components"],
@@ -39,11 +39,10 @@ const joao = {
 };
 ```
 
-- 🚀 Frontend developer building modern, responsive and user-friendly web applications
-- ⚛️ Main stack: **React, Next.js, TypeScript, JavaScript and Tailwind CSS**
-- 🔌 Experience with **REST API integration, reusable components, forms, validation and performance improvements**
+- 🚀 Fullstack developer building modern, responsive and user-friendly applications
+- ⚛️ Main stack: **React, Next.js, TypeScript, JavaScript and Node.js**
 - 📚 Currently graduating in **Systems Analysis and Development**
-- 🌎 **Fluent English** — open to remote opportunities
+- 🌎 **Fluent English**
 
 ---
 
@@ -108,9 +107,5 @@ const joao = {
 <a href="https://api.whatsapp.com/send/?phone=5534996607639&text&type=phone_number&app_absent=0" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-
-<br/><br/>
-
-<i>“Continuous learning through practical development.”</i>
 
 </div>
