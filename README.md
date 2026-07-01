@@ -40,7 +40,7 @@ const aboutMe = {
 ```
 
 - 🚀 Fullstack developer building modern, responsive and user-friendly applications
-- ⚛️ Main stack: **React, Next.js, TypeScript, JavaScript and Node.js**
+- ⚛️ Main stack: **React, Next.js, TypeScript, Java, Node.js and SQL**
 - 📚 Currently graduating in **Systems Analysis and Development**
 - 🌎 **Fluent English**
 
